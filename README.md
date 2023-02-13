@@ -1,1 +1,1 @@
-This repository contains solution to shell tasks
+shell redirection tasks
